@@ -8,7 +8,9 @@
         "includeFiles": [
           "dist/**",
           "prisma/schema.prisma",  
-          "node_modules/**"       
+          "node_modules/**",
+          "src/generated/prisma/**"  
+
         ]
       }
     }
